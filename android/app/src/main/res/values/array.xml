@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fireLocations">
+        <item>166,33</item>
+        <item>27,168</item>
+        <item>339,183</item>
+        <item>699,117</item>
+        <item>200,304</item>
+        <item>144,352</item>
+        <item>527,367</item>
+        <item>303,546</item>
+    </string-array>
+
+    <string-array name="personLocations">
+        <item>405,203</item>
+    </string-array>
+</resources>
+
+
